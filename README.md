@@ -1,6 +1,6 @@
 # Screenshot latihan-latihan yang pernah dibuat
 
-# - OOP
+# - Java
 ### 1. <img width="806" height="585" alt="Screenshot 2025-09-06 212259" src="https://github.com/user-attachments/assets/f638cb7a-4ce4-4041-87dc-ff9f9130d39a" />
 
 ### 2. <img width="510" height="510" alt="image" src="https://github.com/user-attachments/assets/18408d11-6e52-4aa1-88a7-dcca0df656a2" />
@@ -68,3 +68,7 @@
 ### 6. <img width="388" height="327" alt="image" src="https://github.com/user-attachments/assets/d41b83ff-07d8-4292-9f5b-91327fa2a914" />
 
 ### 7. <img width="393" height="442" alt="image" src="https://github.com/user-attachments/assets/e2224933-cf36-4e01-80f9-27f537d0c221" />
+
+### 8. <img width="620" height="402" alt="image" src="https://github.com/user-attachments/assets/9c969675-5130-49f1-986f-776a6a4a9d65" />
+
+### 9. <img width="623" height="892" alt="image" src="https://github.com/user-attachments/assets/1f3adca9-4668-4910-aa82-420e072af90e" />
